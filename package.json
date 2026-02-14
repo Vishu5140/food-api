@@ -1,24 +1,9 @@
 {
-  "name": "backend",
+  "name": "food-api",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/vishu5140/food-api.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/vishu5140/food-api/issues"
-  },
-  "homepage": "https://github.com/vishu5140/food-api#readme",
+  "private": true,
   "dependencies": {
-    "cors": "^2.8.6",
-    "express": "^5.2.1"
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
   }
 }
