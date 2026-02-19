@@ -4,73 +4,73 @@
     "id": 1,
     "name": "Paneer Butter Masala",
     "price": 249,
-    "path":"/PannerMasala.jpg"
+    "path":"../assets/PannerMasala.jpg"
   },
   {
     "id": 2,
     "name": "Veg Biryani",
     "price": 199,
-    "path":"/vegbir.jpg"
+    "path":"../assets/vegbir.jpg"
   },
   {
     "id": 3,
     "name": "Masala Dosa",
     "price": 149,
-    "path":"/masaladosa.jpg"
+    "path":"../assets/masaladosa.jpg"
   },
   {
     "id": 4,
     "name": "Chole Bhature",
     "price": 179,
-   "path":"/cholebhature.jpg"
+   "path":"../assets/cholebhature.jpg"
   },
    {
     "id": 5,
     "name": "Chole Kulche",
     "price": 159,
     "path":
-      "/choolekulche.jpg"
+      "../assets/choolekulche.jpg"
   },
   {
     "id":6,
     "name":"Rajma Chawal",
     "price":120,
-    "path":"/rajma.jpg"
+    "path":"../assets/rajma.jpg"
   },
    {
     "id":7,
     "name":"Curry Rice",
     "price":110,
-    "path":"/curryrice.jpg"
+    "path":"../assets/curryrice.jpg"
   },
    {
     "id":8,
     "name":"Daal Chawal",
     "price":130,
-    "path":"/daal.jpg"
+    "path":"../assets/daal.jpg"
   },
  {
     "id":9,
     "name":"Daal Bati Churma",
     "price":200,
-    "path":"/bati.webp"
+    "path":"../assets/bati.webp"
   },
    {
     "id":10,
     "name":"Kadhai Paneer",
     "price":220,
-    "path":"/kadhai.jpg"
+    "path":"../assets/kadhai.jpg"
   },
    {
     "id":11,
     "name":"Aloo Paratha",
     "price":50,
-    "path":"/paratha.jpg"
+    "path":"../assets/paratha.jpg"
   },
    {
     "id":12,
     "name":"Veg Pulao",
     "price":60,
-    "path":"/pulao.jpg"
+    "path":"../assets/pulao.jpg"
   }]
 }
