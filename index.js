@@ -5,7 +5,7 @@ const data = require("./food.json");
 const app = express();
 app.use(cors());
 
-app.get("/api/food", (req, res) => {
+app.get("/food", (req, res) => {
   res.json(data);
 });
 
